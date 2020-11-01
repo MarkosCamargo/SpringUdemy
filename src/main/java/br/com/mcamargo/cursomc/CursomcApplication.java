@@ -10,7 +10,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import br.com.mcamargo.cursomc.domain.Categoria;
 import br.com.mcamargo.cursomc.domain.Produto;
 import br.com.mcamargo.cursomc.repositories.CategoriaRepository;
-import br.com.mcamargo.cursomc.repositories.ProdutoRepository;
 
 @SpringBootApplication
 public class CursomcApplication implements CommandLineRunner {
